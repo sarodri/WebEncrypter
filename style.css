@@ -1,0 +1,31 @@
+.entry{
+    background-color: bisque;
+    height: 200px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+textarea{
+    padding: 5px;
+}
+#button{
+    background-color: lightsalmon;
+    color: #ffff;
+    border:none;
+    border-right: 2px solid rgb(145, 134, 134);
+    border-bottom: 2px solid rgb(145, 134, 134);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px 0;
+    width:fit-content;
+}
+p#result{
+    color: rgb(49, 58, 66);
+    background-color: lightslategrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    padding-left: 5px;
+    
+}
